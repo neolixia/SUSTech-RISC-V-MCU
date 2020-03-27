@@ -1,0 +1,10 @@
+3.27
+1.学习了verilog的基本语法
+
+  module assign @()边缘敏感
+
+2.学习了makefile基本语法
+
+3.初步了解VCS.
+
+   vcs将verilog文件变成一个二进制可执行文件./simv
