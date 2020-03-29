@@ -1,9 +1,0 @@
- Finished: This week, I have read the paper PULP-NN: Accelerating Quantized Neural Networks on Parallel Ultra-Low-Power RISC-V Processors.
- I have got some kownledge about Pulp-NN:
- 1. The Pulp-NN accelaration effect is really prominant, and it is faster than the CMSIS-NN library which is run on the arm.
- 2. The Pulp-NN accelaration can accelarate just on the pulp without any other co-processor that is based on the arm.
- 3. The paper introduce that because large network layers may not fit the MCU on-board memory, buy a set of QNN kernel helps solved this problem. 
- 
- Unfinished: Because too many class work to do, so I have not read the paper carefully and sumarized the content.
-
- To do next week: Summarize the paper.
