@@ -1,0 +1,5 @@
+1.NVDLA硬件组成：Convolution Core，Single Data Processor ，Planar Data Processor，Channel Data Processor ，Dedicated Memory and Data Reshape Engines 
+2.Small system:  headless NVDLA
+   Large system: headed NVDLA
+3.two modes of operation: independent mode, fused mode
+4.Connections: CSB interface, Interrupt interface, DBB interface
